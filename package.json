@@ -1,5 +1,5 @@
 {
-  "name": "mysql",
+  "name": "my-sql",
   "version": "1.0.0",
   "description": "Database server",
   "main": "server.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql": "^2.17.1",
     "nodemon": "^1.19.4",
     "prettierrc": "0.0.0-5"
   }
